@@ -14,8 +14,12 @@ https://agile-eyrie-66880.herokuapp.com/notes
 https://github.com/SDMNNY/note-taker
 
 
-## 
+## Mock-Up
 
+The following images show the web application's appearance and functionality:
+
+
+![Existing notes are listed in the left-hand column with empty fields on the right-hand side for the new note’s title and text.](./assets/Note%20Taker.gif)
 
 ## Acceptance Criteria
 
