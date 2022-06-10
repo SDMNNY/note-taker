@@ -9,5 +9,5 @@ app.use(express.static("public"));
 app.use(require("./routes"));
 
 app.listen(PORT, () =>
-  console.log(`Application is ruinning on port http://localhost:${PORT}`)
+  console.log(`Application is running on port http://localhost:${PORT}`)
 );

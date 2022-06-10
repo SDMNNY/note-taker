@@ -40,12 +40,11 @@ router.post("/notes", (req, res) => {
 
 //Create
 
-// getting route for the full note database
+// ROUTE FOR DATABASE
 router.get("/notes", (req, res) =>
   res.sendFile(path.join(__dirname, "../../db/db.json"))
 );
 
-//get individual note by id and to display in read only
 router.get("/notes/:id", (req, res) => {
   const index = req.params.id;
 
