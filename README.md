@@ -5,6 +5,18 @@ Work with a partner to implement the following user story:
 
 * As a web developer, I want to deploy my application to services like Heroku so that I can share my app with the world.
 
+
+## DEPLOYABLE LINK 
+
+https://agile-eyrie-66880.herokuapp.com/notes
+
+## GITHUB
+https://github.com/SDMNNY/note-taker
+
+
+## 
+
+
 ## Acceptance Criteria
 
 * It's done when I have initialized a Git repository by running `git init` at the root of my existing project.
