@@ -50,3 +50,5 @@ router.get("/notes/:id", (req, res) => {
 
   res.json(allNotes[index]);
 });
+
+module.exports = router;
